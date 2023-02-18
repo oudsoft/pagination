@@ -1,0 +1,37 @@
+.CutoffDateSelectorMain {
+  position: relative;
+  width: 100%;
+  padding: 5px;
+  border: 2px solid #485461;
+  border-radius: 4px;
+  text-align: right;
+}
+
+.CutoffDateSelectorLabel1 {
+  display: inline-block;
+  text-align: right;
+}
+
+.CutoffDateSelectorLabel2 {
+  display: inline-block;
+  text-align: left;
+  margin-left: 10px;
+}
+
+.CutoffDateSelectorValue {
+  display: inline-block;
+  text-align: left;
+  margin-left: 10px;
+}
+/*
+select {
+  font-family: 'EkkamaiStandard';
+  font-size: 24px;
+  font-weight: 'normal'
+}
+*/
+.EarningTableBox {
+  position: relative;
+  width: 100%;
+  padding: 5px;
+}
