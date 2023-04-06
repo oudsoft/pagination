@@ -5,7 +5,7 @@ const CleanWebpackPlugin = require('clean-webpack-plugin')
 module.exports = {
   entry: './src/index.js',
   output: {
-    filename: 'earning.js',
+    filename: 'pagination.js',
     //path: resolve(__dirname, 'public'),
     path: '/mnt/bkk/share/api/shop/lib',
     publicPath: '/',

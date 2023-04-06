@@ -3,11 +3,11 @@ import { hot } from 'react-hot-loader'
 //import './App.css'
 
 import Wrapper from "./components/Wrapper";
-import CutoffDateSelector from "./components/CutoffDateSelector";
+import Pagination from "./components/Pagination";
 
 const App = () => (
 	<Wrapper>
-		<CutoffDateSelector/>
+		<Pagination/>
 	</Wrapper>
 )
 export default hot(module)(App)
